@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cinzel&family=Fauna+One&family=Josefin+Slab:wght@100&family=Orbitron&family=Raleway+Dots&family=Roboto:wght@300;500;700&family=Rubik+Maze&display=swap');
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.app {
+  margin: auto;
+}
